@@ -14,7 +14,7 @@
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white"> 
 
-## :octocat:GitHub Stats
+## :earth_asia:GitHub Stats
 ![YanZisuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanZisuka&show_icons=true&theme=dark)
 
 ## 🏅Solved.ac Tier
