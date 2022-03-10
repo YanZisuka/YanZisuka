@@ -1,4 +1,4 @@
-## 👋Hi there, 한승재입니다.
+### 👋Hi there, 한승재입니다.
 
 ## :octocat:GitHub Stats
 ![YanZisuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanZisuka&show_icons=true&theme=tokyonight)
