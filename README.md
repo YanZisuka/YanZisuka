@@ -4,7 +4,7 @@
 
 ## 🛠Skills
 
-![HTML5](https://img.shields.io/badge/-HTML5-e34f26?logo=HTML5&logoColor=white&style=flat-square) ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?logo=CSS3&logoColor=white&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-e34f26?logo=HTML5&logoColor=white&style=flat-square) ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?logo=CSS3&logoColor=white&style=flat-square)
 
 ![django](https://img.shields.io/badge/-django-092e20?logo=Django&logoColor=white&style=flat-square)
 
