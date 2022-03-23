@@ -10,7 +10,7 @@
 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-ee4c2c?logo=PyTorch&logoColor=white&style=flat-square)
 
-![Python](https://img.shields.io/badge/-Python-3776ab?logo=Python&logoColor=white&style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?logo=JavaScript&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776ab?logo=Python&logoColor=white&style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?logo=JavaScript&logoColor=black&style=flat-square)
 
 ![Git](https://img.shields.io/badge/-Git-f05032?logo=Git&logoColor=white&style=flat-square)
 
