@@ -1,10 +1,27 @@
-<h3 align="center">👋Hi there, 한승재입니다.</h3>
+<h3 align="center">👋Hi there!</h3>
 
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?logo=LinkedIn&style=flat-square&link=https://www.linkedin.com/in/seung-jae-han-183255233/)](https://www.linkedin.com/in/seung-jae-han-183255233/)
+  
+</div>
 
+<hr>
+<h3 align="center">:page_with_curl:Experience</h3>
 
-<h3 align="center">🛠Skills</h3>
+<div>
+  
+  <ul>
+    <li>:mortar_board:Yonsei Univ. B.S. in Mechanical Engineering (2015.03 ~ 2022.02)</li>
+  </ul>
+  
+</div>
 
-<div align="center" style="text-align:center">
+<hr>
+
+<h3 align="center">🛠Skill</h3>
+
+<div align="center" style="text-align: center">
   
   ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?logo=HTML5&logoColor=white&style=flat-square) ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?logo=CSS3&logoColor=white&style=flat-square)
   <br>
@@ -17,7 +34,9 @@
   ![Git](https://img.shields.io/badge/-Git-f05032?logo=Git&logoColor=white&style=flat-square)
   
 </div>
-  
+
+<hr>
+
 <h3 align="center">🏅Solved.ac Tier</h3>
 
 <div align="center" style="text-align:center">
