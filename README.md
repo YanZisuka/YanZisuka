@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?logo=LinkedIn&style=flat-square&link=https://www.linkedin.com/in/seung-jae-han-183255233/)](https://www.linkedin.com/in/seung-jae-han-183255233/)
+  <a href="https://www.linkedin.com/in/seung-jae-han-183255233/" target="_blank">![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?logo=LinkedIn&style=flat-square&link=https://www.linkedin.com/in/seung-jae-han-183255233/)</a>
   
 </div>
 
