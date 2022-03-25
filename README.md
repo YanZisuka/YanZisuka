@@ -12,8 +12,8 @@
 <div>
   
   <ul>
-    <li>:mortar_board:Yonsei Univ. B.S. in Mechanical Engineering (2015.03 ~ 2022.02)</li>
     <li>:computer:Samsung Software Academy For Youth (2022.01 ~ )</li>
+    <li>:mortar_board:Yonsei Univ. B.S. in Mechanical Engineering (2015.03 ~ 2022.02)</li>
   </ul>
   
 </div>
