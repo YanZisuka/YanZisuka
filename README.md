@@ -1,10 +1,4 @@
-<div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Hi%20There!&fontSize=70&animation=twinkling&fontAlign=80&fontAlignY=30&rotate=13.5)
-  
-</div>
-
-<div align="center">
+<div align="end">
   
   <a href="https://www.linkedin.com/in/seung-jae-han-183255233" target="_blank">![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?logo=LinkedIn&style=flat-square)</a>
   
@@ -47,6 +41,5 @@
 <div align="center" style="text-align:center">
   
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanndrednine)](https://solved.ac/hanndrednine)
-  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=hanndrednine&theme=warm)
 
 </div>
