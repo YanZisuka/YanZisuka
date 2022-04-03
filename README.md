@@ -1,4 +1,8 @@
-<h3 align="center">👋Hi there!</h3>
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Hi%20There!&fontSize=70&animation=twinkling&fontAlign=80&fontAlignY=30&rotate=13.5)
+  
+</div>
 
 <div align="center">
   
@@ -43,5 +47,6 @@
 <div align="center" style="text-align:center">
   
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanndrednine)](https://solved.ac/hanndrednine)
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=hanndrednine&theme=warm)
 
 </div>
