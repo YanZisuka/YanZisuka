@@ -28,8 +28,6 @@
   <br>
   ![Django](https://img.shields.io/badge/-Django-092e20?logo=Django&logoColor=white&style=flat-square)
   <br>
-  ![PyTorch](https://img.shields.io/badge/-PyTorch-ee4c2c?logo=PyTorch&logoColor=white&style=flat-square)
-  <br>
   ![Python](https://img.shields.io/badge/-Python-3776ab?logo=Python&logoColor=white&style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?logo=JavaScript&logoColor=black&style=flat-square) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169e1?logo=PostgreSQL&logoColor=white&style=flat-square)
   <br>
   ![Git](https://img.shields.io/badge/-Git-f05032?logo=Git&logoColor=white&style=flat-square) ![Figma](https://img.shields.io/badge/-Figma-f24e1e?style=flat-square&logo=Figma&logoColor=white)
