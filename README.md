@@ -20,7 +20,7 @@
 
 <hr>
 
-<h3 align="center">🛠Skill</h3>
+<h3 align="center">🛠Skills</h3>
 
 <div align="center" style="text-align: center">
   
