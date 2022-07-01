@@ -1,4 +1,4 @@
-<h3 align="center">:wave: Hi There!</h2>
+<h2 align="center">:wave: Hi There!</h2>
 
 <div align="center">
   
@@ -6,8 +6,9 @@
   
 </div>
 
-<hr>
-<h3 align="center">:page_with_curl:Experience</h3>
+<br>
+
+<h2 align="center">:page_with_curl:Experience</h3>
 
 <div>
   
@@ -18,9 +19,9 @@
   
 </div>
 
-<hr>
+<br>
 
-<h3 align="center">🛠Skills</h3>
+<h2 align="center">🛠Skills</h3>
 
 <div align="center" style="text-align: center">
   
@@ -36,9 +37,9 @@
   
 </div>
 
-<hr>
+<br>
 
-<h3 align="center">🏅Solved.ac Tier</h3>
+<h2 align="center">🏅Solved.ac Tier</h3>
 
 <div align="center" style="text-align:center">
   
