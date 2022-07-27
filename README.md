@@ -25,7 +25,7 @@
 
 <div align="center" style="text-align: center">
   
-  ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?logo=HTML5&logoColor=white&style=flat-square) ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?logo=CSS3&logoColor=white&style=flat-square) ![Vue.js](https://img.shields.io/badge/-Vue.js-4fc08d?logo=Vue.js&logoColor=black&style=flat-square) ![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=React&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?logo=HTML5&logoColor=white&style=flat-square) ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?logo=CSS3&logoColor=white&style=flat-square) ![Sass](https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=Sass&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4fc08d?logo=Vue.js&logoColor=black&style=flat-square) ![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=React&logoColor=black)
   <br>
   ![Django](https://img.shields.io/badge/-Django-092e20?logo=Django&logoColor=white&style=flat-square)
   <br>
