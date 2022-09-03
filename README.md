@@ -3,6 +3,7 @@
 <div align="center">
   
   <a href="https://www.linkedin.com/in/seung-jae-han-183255233" target="_blank">![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?logo=LinkedIn&style=flat-square)</a>
+  <a href="https://velog.io/@hanndrednine" target="_blank">![Tech%20Blog](https://img.shields.io/badge/-Tech%20Blog-black?style=flat-square)</a>
   
 </div>
 
