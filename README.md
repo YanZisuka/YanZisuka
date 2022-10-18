@@ -4,10 +4,11 @@
   
   <a href="https://www.linkedin.com/in/seung-jae-han-183255233" target="_blank">![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?logo=LinkedIn&style=flat-square)</a>
   <a href="https://velog.io/@hanndrednine" target="_blank">![Tech%20Blog](https://img.shields.io/badge/-Tech%20Blog-black?style=flat-square)</a>
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hanndrednine)](https://solved.ac/hanndrednine)
   
 </div>
 
-<br>
+<br />
 
 <h2 align="center">:page_with_curl:Experience</h3>
 
@@ -21,7 +22,7 @@
   
 </div>
 
-<br>
+<br />
 
 <h2 align="center">🛠Skills</h3>
 
@@ -41,12 +42,4 @@
   
 </div>
 
-<br>
-
-<h2 align="center">🏅Solved.ac Tier</h3>
-
-<div align="center" style="text-align:center">
-  
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanndrednine)](https://solved.ac/hanndrednine)
-
-</div>
+<br />
