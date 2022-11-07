@@ -10,7 +10,7 @@
 
 <br />
 
-<h2 align="center">:page_with_curl:Experience</h3>
+<h2 align="center">:page_with_curl: Work & Experience</h3>
 
 <div>
   
@@ -24,7 +24,7 @@
 
 <br />
 
-<h2 align="center">🛠Skills</h3>
+<h2 align="center">🛠 Skills</h3>
 
 <div align="center" style="text-align: center">
   
