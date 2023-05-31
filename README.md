@@ -3,8 +3,6 @@
 <div align="center">
   
   <a href="https://www.linkedin.com/in/seung-jae-han-183255233" target="_blank">![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?logo=LinkedIn&style=flat-square)</a>
-  <a href="https://velog.io/@hanndrednine" target="_blank">![Tech%20Blog](https://img.shields.io/badge/-Tech%20Blog-black?style=flat-square)</a>
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hanndrednine)](https://solved.ac/hanndrednine)
   
 </div>
 
