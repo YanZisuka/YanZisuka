@@ -32,7 +32,7 @@
   <br>
   ![Python](https://img.shields.io/badge/-Python-3776ab?logo=Python&logoColor=white&style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?logo=JavaScript&logoColor=black&style=flat-square) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=white)
   <br>
-  ![Git](https://img.shields.io/badge/-Git-f05032?logo=Git&logoColor=white&style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-2496ed?logo=Docker&logoColor=white&style=flat-square) ![GitHub%20Actions](https://img.shields.io/badge/-GitHub%20Actions-2088ff?logo=GitHub%20Actions&logoColor=white&style=flat-square)
+  ![Git](https://img.shields.io/badge/-Git-f05032?logo=Git&logoColor=white&style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-2496ed?logo=Docker&logoColor=white&style=flat-square) ![GitHub%20Actions](https://img.shields.io/badge/-GitHub%20Actions-2088ff?logo=GitHub%20Actions&logoColor=white&style=flat-square) ![yarn](https://img.shields.io/badge/-yarn-2c8ebb?style=flat-square&logo=Yarn&logoColor=white)
   
 </div>
 
