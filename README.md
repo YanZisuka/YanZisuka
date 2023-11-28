@@ -8,7 +8,7 @@
 
 <br />
 
-<h2 align="center">:page_with_curl: Work & Experience</h3>
+<h2 align="center">:page_with_curl: Experiences</h3>
 
 <div>
   
