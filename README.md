@@ -13,7 +13,8 @@
 <div>
   
   <ul>
-    <li>:computer: Frontend@Modusign (2022.11 ~ )</li>
+    <li>:computer: Frontend@Toss Securities (2024.04 ~ )</li>
+    <li>:computer: Frontend@Modusign (2022.11 ~ 2024.03)</li>
     <li>:mortar_board: Samsung Software Academy For Youth (2022.01 ~ 2022.10)</li>
     <li>:mortar_board: Yonsei Univ. B.S. in Mechanical Engineering (2015.03 ~ 2022.02)</li>
   </ul>
